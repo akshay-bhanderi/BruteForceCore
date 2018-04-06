@@ -1,0 +1,19 @@
+C:\Users\Administrator_pk\AppData\Local\Temporary Projects\Public Brute and Checker\bin\Debug\Public Brute and Checker.exe
+C:\Users\Administrator_pk\AppData\Local\Temporary Projects\Public Brute and Checker\bin\Debug\Public Brute and Checker.pdb
+C:\Users\Administrator_pk\AppData\Local\Temporary Projects\Public Brute and Checker\bin\Debug\xNet.dll
+C:\Users\Administrator_pk\AppData\Local\Temporary Projects\Public Brute and Checker\obj\x86\Debug\Public Brute and Checker.csprojResolveAssemblyReference.cache
+C:\Users\Administrator_pk\AppData\Local\Temporary Projects\Public Brute and Checker\obj\x86\Debug\Public_Brute_and_Checker.Properties.Resources.resources
+C:\Users\Administrator_pk\AppData\Local\Temporary Projects\Public Brute and Checker\obj\x86\Debug\Public Brute and Checker.csproj.GenerateResource.Cache
+C:\Users\Administrator_pk\AppData\Local\Temporary Projects\Public Brute and Checker\obj\x86\Debug\Public Brute and Checker.exe
+C:\Users\Administrator_pk\AppData\Local\Temporary Projects\Public Brute and Checker\obj\x86\Debug\Public Brute and Checker.pdb
+C:\Users\Administrator_pk\AppData\Local\Temporary Projects\Public Brute and Checker\obj\x86\Debug\Public_Brute_and_Checker.FrmMain.resources
+C:\Users\алик\Desktop\Public Brute and Checker\Public Brute and Checker\obj\x86\Debug\Public Brute and Checker.csprojResolveAssemblyReference.cache
+C:\Users\алик\Desktop\Public Brute and Checker\Public Brute and Checker\obj\x86\Debug\Public_Brute_and_Checker.FrmMain.resources
+C:\Users\алик\Desktop\Public Brute and Checker\Public Brute and Checker\obj\x86\Debug\Public Brute and Checker.csproj.GenerateResource.Cache
+C:\Users\алик\Desktop\Public Brute and Checker\Public Brute and Checker\bin\Debug\MetroFramework.dll
+C:\Users\алик\Desktop\Public Brute and Checker\Public Brute and Checker\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\алик\Desktop\Public Brute and Checker\Public Brute and Checker\obj\x86\Debug\aleeek_ENGINE.Properties.Resources.resources
+C:\Users\алик\Desktop\Public Brute and Checker\Public Brute and Checker\bin\Debug\BonusBitcoin.co [B&C] by ALEEEK.exe
+C:\Users\алик\Desktop\Public Brute and Checker\Public Brute and Checker\bin\Debug\BonusBitcoin.co [B&C] by ALEEEK.pdb
+C:\Users\алик\Desktop\Public Brute and Checker\Public Brute and Checker\obj\x86\Debug\BonusBitcoin.co [B&C] by ALEEEK.exe
+C:\Users\алик\Desktop\Public Brute and Checker\Public Brute and Checker\obj\x86\Debug\BonusBitcoin.co [B&C] by ALEEEK.pdb

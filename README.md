@@ -1,11 +1,11 @@
-# BruteForceCore
+# BruteForceCore by ALEEEK;SOFT
 
-Simple BruteForce written by C#
+Simple BruteForce written on C#
 
 ## Getting Started
 
 Clone repository and start to write your own bruteforce ;)
-
+With all questions you can write me in [Telegram](https://t.me/aleeek)
 
 ## Built With
 

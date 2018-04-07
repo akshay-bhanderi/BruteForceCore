@@ -50,3 +50,5 @@ C:\Users\bxsxvc\Desktop\мои софты\Быстрые проектики\Лё
 C:\Users\bxsxvc\Desktop\мои софты\Быстрые проектики\Лёгкий сурц\Brute by ALEEEK\obj\x86\Debug\Public_Brute_and_Checker.FrmMain.resources
 C:\Users\bxsxvc\Desktop\мои софты\Быстрые проектики\Лёгкий сурц\Brute by ALEEEK\obj\x86\Debug\aleeek_ENGINE.Properties.Resources.resources
 C:\Users\bxsxvc\Desktop\мои софты\Быстрые проектики\Лёгкий сурц\Brute by ALEEEK\obj\x86\Debug\Brute by ALEEEK.csproj.GenerateResource.Cache
+C:\Users\bxsxvc\Desktop\surcс\Brute by ALEEEK\obj\x86\Debug\BonusBitcoin.co [B&C] by ALEEEK.exe
+C:\Users\bxsxvc\Desktop\surcс\Brute by ALEEEK\obj\x86\Debug\BonusBitcoin.co [B&C] by ALEEEK.pdb

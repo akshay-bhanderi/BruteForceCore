@@ -313,7 +313,7 @@
 			this.metroTextBox1.Name = "metroTextBox1";
 			this.metroTextBox1.Size = new System.Drawing.Size(163, 23);
 			this.metroTextBox1.TabIndex = 1;
-			this.metroTextBox1.Text = "maksorov@gmail.com;albatros2";
+			this.metroTextBox1.Text = "test@mail.ru;testpass";
 			// 
 			// metroButton1
 			// 
@@ -338,12 +338,12 @@
 			// 
 			this.metroLabel3.AutoSize = true;
 			this.metroLabel3.FontSize = MetroFramework.MetroLabelSize.Tall;
-			this.metroLabel3.Location = new System.Drawing.Point(32, 24);
+			this.metroLabel3.Location = new System.Drawing.Point(64, 24);
 			this.metroLabel3.Name = "metroLabel3";
-			this.metroLabel3.Size = new System.Drawing.Size(170, 25);
+			this.metroLabel3.Size = new System.Drawing.Size(129, 25);
 			this.metroLabel3.Style = MetroFramework.MetroColorStyle.Black;
 			this.metroLabel3.TabIndex = 24;
-			this.metroLabel3.Text = "www.creagames.com";
+			this.metroLabel3.Text = "BruteForceCore";
 			// 
 			// metroStyleManager1
 			// 

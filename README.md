@@ -14,7 +14,7 @@ With all questions you can write me in [Telegram](https://t.me/aleeek)
 
 ## Authors
 
-* **Albert Maksorov** - *Main author of project* - [ALEEEK](http://aleeek.ru)
+* **Albert** - *Main author of project* - [ALEEEK](http://aleeek.ru)
 
 See also the list of [authors](http://aleeek.ru)
 
